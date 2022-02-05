@@ -166,6 +166,11 @@ ul > li {
   padding: 0.2rem 0 0.2rem 1rem;
 }
 
+ul > li > .small-paragraph {
+  display: inline-block;
+  margin-bottom: 0.2rem;
+}
+
 ul > li:before {
   position: absolute;
   left: 0;
